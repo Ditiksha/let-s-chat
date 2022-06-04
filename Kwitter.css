@@ -1,11 +1,15 @@
 body
 {
-	background: linear-gradient(#d092e4 0%, #9bffdf 100%);
+	background-image: linear-gradient(to right top, #ca5ef5, #2b82bb, #549ec1, #64caea, #18edf5);
 }
 .header img
 {
 	width: 70px;
 	margin-left: -15px;
+}
+.header
+{
+	color: rgb(0, 0, 0);
 }
 .logo
 {
