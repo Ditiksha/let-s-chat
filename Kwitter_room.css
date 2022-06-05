@@ -1,31 +1,34 @@
-body
-{
+body {
 	background-image: linear-gradient(to right top, #ca5ef5, #2b82bb, #549ec1, #64caea, #18edf5);
 }
-.room_name
-{
+
+.room_name {
 	cursor: pointer;
 	font-size: 20px;
 }
-#logout
-{
-	font-size: 20px; float: right;
-}
-#output
-{
-	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+
+#logout {
+	font-size: 20px;
+	float: right;
 }
 
-.input_div_room_page
-{
+#output {
+	padding: 10px;
+	width: 80%;
+	background: rgba(255, 255, 255, 0.8);
+	border-radius: 15px;
+}
+
+.input_div_room_page {
 	width: 80%;
 }
 
-.input_div label
-{
-	color: white;font-size: 20px;
+.input_div label {
+	color: white;
+	font-size: 20px;
 }
-.header img
-{
-	width: 80px;margin-left: -15px;
+
+.header img {
+	width: 80px;
+	margin-left: -15px;
 }

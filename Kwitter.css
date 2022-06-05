@@ -1,24 +1,27 @@
-body
-{
+body {
 	background-image: linear-gradient(to right top, #ca5ef5, #2b82bb, #549ec1, #64caea, #18edf5);
 }
-.header img
-{
+
+.header img {
 	width: 70px;
 	margin-left: -15px;
 }
-.header
-{
+
+.header {
 	color: rgb(0, 0, 0);
 }
-.logo
-{
+
+.logo {
 	width: 150px;
 	margin-top: 30px;
 	border-radius: 50px;
 }
 
-#login_button
-{
-	width: 80%;border-radius: 15px;
+#login_button {
+	width: 29%;
+	border-radius: 15px;
+	color: #6e0a64;
+	background-color: #549ec1;
+	font-size: 16px;
+	font-family: fantasy;
 }
